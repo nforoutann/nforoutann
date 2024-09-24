@@ -8,7 +8,7 @@
   <a href="https://www.w3schools.com/c/c_intro.php" title="C">
     <img src="https://skillicons.dev/icons?i=c" />
   </a>
-  <a href="https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20an%20object%2Doriented,fun%20and%20easy%20to%20learn!" title="CPP">
+  <a href="https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20an%20object%2Doriented,fun%20and%20easy%20to%20learn!" title="C++">
     <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
   <a href="https://www.w3schools.com/java/java_intro.asp" title="Java">
